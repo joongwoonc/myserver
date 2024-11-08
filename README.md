@@ -8,6 +8,10 @@ github에 가입합니다.
 저장소를 만듭니다.
 저장소에 db.json 파일을 만들어 줍니다.
 
+이렇게 접속하면 json서버가 됩니다.
+https://my-json-server.typicode.com/github아이디/저장소이름/
+
+
 ```
 {
   "comments": [
@@ -31,7 +35,4 @@ github에 가입합니다.
   ]
 }
 ```
-# https://my-json-server.typicode.com/github아이디/저장소이름/
-위의 주소로 접속하면 json 서버가 됩니다.
 
-https://my-json-server.typicode.com/github아이디/저장소이름/
