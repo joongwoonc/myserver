@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "kimc",
-	  "content" : "우와 일등이다."
+      "content" : "우와 일등이다."
     },
     {
       "id": 2,
       "name": "leec",
-	  "content" : "우와 이등이다."
+      "content" : "우와 이등이다."
     }
   ],
   "names": [
